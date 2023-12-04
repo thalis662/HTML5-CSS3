@@ -9,7 +9,7 @@
 
 1. **Produtora O’Reilly:** HTML e CSS (Linguagem Técnica);
 2. **Produtora Alta Books:** HTML5 e CSS3 (Simples – Elizabeth Castro e Bruce Hyslop);
-3. **Livros do Maurício Samy Silva:** HTML e CSS;
+3. **Livros do Maurício Samy Silva:** HTML e CSS e GRID LAYOUT;
 4. **Livro de Designer:** GG (David Dabner e Outros).
 
 # EXTENSÕES 
