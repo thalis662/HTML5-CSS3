@@ -10,15 +10,12 @@
 3. **Livros do Maurício Samy Silva:** HTML e CSS e GRID LAYOUT;
 4. **Livro de Designer:** GG (David Dabner e Outros).
 
-## EXTENSÕES 
+## Extensões 
 - Web developer; 
 - easy auto refresh;
  
-## SITES
+## Sites
 https://emojipedia.org/
 
-## REPOSITÓRIO 
+## Repositório
 github.com/gustavoguanabara – gustavoguanabara.github.io
-
-## PDF 
-está na pasta PDFs
